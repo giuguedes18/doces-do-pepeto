@@ -1,0 +1,24 @@
+{
+  "short_name": "DocesPepeto",
+  "name": "Doces do Pepeto - Gestão & PDV",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2553/2553691.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2553/2553691.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "scope": "./",
+  "background_color": "#f43f5e",
+  "theme_color": "#f43f5e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
